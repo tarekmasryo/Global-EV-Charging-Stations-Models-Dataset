@@ -46,7 +46,6 @@ Toyota,bZ4X,Global (EU/UK/US/JP),BEV,2022,SUV,JP
 Subaru,Solterra,Global (EU/UK/US/JP),BEV,2022,SUV,JP
 Honda,e,EU/JP,BEV,2019,City car,JP
 Honda,e:Ny1,EU/UK,BEV,2023,SUV,JP
-Mazda,MX-30,EU/US (limited),BEV,2020,Crossover,JP
 Jaguar,I-Pace,Global (EU/UK/US),BEV,2018,SUV,UK
 Lucid,Air,US/EU/ME,BEV,2021,Sedan,US
 Lucid,Gravity,US (from 2025),BEV,2025,SUV,US
@@ -62,3 +61,69 @@ NIO,ES6,CN/EU (select),BEV,2019,SUV,CN
 XPeng,P7,CN/EU (select),BEV,2019,Sedan,CN
 XPeng,G9,CN/EU (select),BEV,2022,SUV,CN
 Smart,#1,EU/UK/CN,BEV,2022,SUV,CN/DE
+Audi,e-tron GT,Global (EU/UK/US),BEV,2021,Sedan,Germany
+Audi,Q8 e-tron,Global (EU/UK/US),BEV,2023,SUV,Germany
+BMW,i7,Global (EU/UK/US),BEV,2022,Sedan,Germany
+BMW,iX1,EU/UK,BEV,2022,SUV,Germany
+BMW,iX2,EU/UK,BEV,2024,SUV,Germany
+BMW,iX3,EU/UK/China,BEV,2020,SUV,Germany
+Mercedes-Benz,EQE SUV,Global (EU/UK/US),BEV,2023,SUV,Germany
+Mercedes-Benz,EQS SUV,Global (EU/UK/US),BEV,2022,SUV,Germany
+Volkswagen,ID.5,EU/UK,BEV,2021,SUV,Germany
+Volkswagen,ID.7,EU/UK,BEV,2023,Sedan,Germany
+Škoda,Enyaq,EU/UK,BEV,2020,SUV,Czech Republic
+Porsche,Macan Electric,EU/UK,BEV,2024,SUV,Germany
+Rolls-Royce,Spectre,Global (EU/UK/US),BEV,2023,Coupe,United Kingdom
+Renault,Scenic E-Tech,EU/UK,BEV,2024,Crossover,France
+Renault,5 E-Tech,EU/UK,BEV,2024,Hatchback,France
+Peugeot,e-3008,EU/UK,BEV,2024,SUV,France
+Peugeot,e-308,EU/UK,BEV,2023,Hatchback,France
+Opel,Astra Electric,EU/UK,BEV,2023,Hatchback,Germany
+Opel,Astra Electric Sports Tourer,EU/UK,BEV,2023,Wagon,Germany
+Opel,Mokka-e,EU/UK,BEV,2020,SUV,Germany
+Citroën,ë-C4 X,EU/UK,BEV,2022,Sedan,France
+Citroën,ë-C3,EU/UK,BEV,2024,Hatchback,France
+Fiat,600e,EU/UK,BEV,2023,SUV,Italy
+Abarth,500e,EU/UK,BEV,2023,Hatchback,Italy
+DS Automobiles,DS 3 E-Tense,EU/UK,BEV,2019,SUV,France
+Jeep,Avenger Electric,EU/UK,BEV,2023,SUV,Italy
+Nissan,Ariya,Global (EU/UK/JP/US),BEV,2022,SUV,Japan
+Lexus,RZ,Global (EU/UK/JP/US),BEV,2022,SUV,Japan
+Lexus,UX 300e,EU/UK/JP,BEV,2020,SUV,Japan
+Honda,Prologue,US,BEV,2024,SUV,Japan
+Kia,Niro EV,Global (EU/UK/US),BEV,2018,SUV,South Korea
+Volvo,EX40,Global (EU/UK/US),BEV,2020,SUV,Sweden
+Volvo,EC40,Global (EU/UK/US),BEV,2021,SUV Coupe,Sweden
+Polestar,4,Global (EU/UK/US/CN),BEV,2023,SUV Coupe,Sweden
+Lotus,Eletre,EU/UK/China,BEV,2023,SUV,United Kingdom
+Lotus,Emeya,EU/UK/China,BEV,2024,Sedan,United Kingdom
+Maserati,GranTurismo Folgore,EU/UK,BEV,2023,Coupe,Italy
+Maserati,Grecale Folgore,EU/UK,BEV,2024,SUV,Italy
+Alfa Romeo,Junior Elettrica,EU/UK,BEV,2024,SUV,Italy
+MINI,Cooper Electric (J01),EU/UK,BEV,2024,Hatchback,United Kingdom
+MINI,Aceman,EU/UK/China,BEV,2024,SUV,United Kingdom
+Smart,#3,EU/UK/China,BEV,2023,SUV Coupe,Germany
+BYD,Atto 3 (Yuan Plus),Global (EU/UK/CN/ME),BEV,2021,SUV,China
+BYD,Seal U,EU/UK/CN,BEV,2023,SUV,China
+BYD,Seagull (Dolphin Mini),CN/LatAm/ME,BEV,2023,Hatchback,China
+MG,MG4 Electric,EU/UK,BEV,2022,Hatchback,China
+MG,MG5 Electric,EU/UK,BEV,2021,Wagon,China
+MG,ZS EV,EU/UK,BEV,2019,SUV,China
+NIO,ES8,CN/EU,BEV,2018,SUV,China
+XPeng,G6,CN/EU,BEV,2023,SUV,China
+Zeekr,001,CN/EU,BEV,2021,Shooting Brake,China
+Zeekr,007,CN,BEV,2023,Sedan,China
+Zeekr,X,CN/EU,BEV,2023,SUV,China
+Zeekr,009,CN,BEV,2022,MPV,China
+Ora,03 Funky Cat,EU/UK,BEV,2021,Hatchback,China
+Ora,07 (Lightning Cat),CN/EU,BEV,2022,Sedan,China
+Chery,Omoda E5,EU/UK/ME,BEV,2024,SUV,China
+Leapmotor,T03,EU/CN,BEV,2020,Hatchback,China
+VinFast,VF8,Global (VN/US/EU),BEV,2022,SUV,Vietnam
+VinFast,VF9,Global (VN/US/EU),BEV,2023,SUV,Vietnam
+Chevrolet,Blazer EV,US,BEV,2023,SUV,United States
+Chevrolet,Equinox EV,US,BEV,2024,SUV,United States
+Chevrolet,Silverado EV,US,BEV,2023,Pickup,United States
+GMC,Hummer EV,US,BEV,2021,Pickup/SUV,United States
+Cadillac,Lyriq,US/China,BEV,2022,SUV,United States
+Cadillac,Escalade IQ,US,BEV,2024,SUV,United States
