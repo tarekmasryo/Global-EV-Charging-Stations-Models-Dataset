@@ -103,3 +103,10 @@ print(top15)
 # Share of fast-DC sites (≥50 kW)
 fast_dc_share = (df["is_fast_dc"]).mean()
 print("Fast-DC share:", round(fast_dc_share, 3))
+
+---
+
+## Related Repositories
+- 🔍 [EV Charging EDA](https://github.com/tarekmasryo/ev-charging-eda)
+- 📊 [EV Charging Dashboard](https://github.com/tarekmasryo/ev-charging-dashboard)
+
