@@ -1,6 +1,5 @@
 # ⚡ Global EV Charging Stations (2025)  
 **Author:** [Tarek Masryo](https://github.com/tarekmasryo) · [Kaggle](https://www.kaggle.com/datasets/tarekmasryo/global-ev-charging-stations)  
-**Date:** Sept 2025  
 
 **License:**  
 • Charging data (Open Charge Map) — **CC BY 4.0**  
@@ -109,4 +108,5 @@ print("Fast-DC share:", round(fast_dc_share, 3))
 ## Related Repositories
 - 🔍 [EV Charging EDA](https://github.com/tarekmasryo/ev-charging-eda)
 - 📊 [EV Charging Dashboard](https://github.com/tarekmasryo/ev-charging-dashboard)
+
 
